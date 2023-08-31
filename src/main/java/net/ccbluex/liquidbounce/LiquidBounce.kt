@@ -36,8 +36,8 @@ import kotlin.concurrent.thread
 object LiquidBounce {
 
     // Client information
-    const val CLIENT_NAME = "LiquidBounce++"
-    const val CLIENT_VERSION = "0.3"
+    const val CLIENT_NAME = "GhostClient++"
+    const val CLIENT_VERSION = " "
     const val CLIENT_CREATOR = "CCBlueX, exit-scammed, and PlusPlusMC"
     const val CLIENT_CLOUD = "https://plusplusmc.github.io/Cloud/LiquidBounce/"
 
